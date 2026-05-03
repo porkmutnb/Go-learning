@@ -42,6 +42,7 @@
 | `go build`           | Compile เป็นไฟล์ Binary (.exe) เพื่อนำไปใช้งานจริง                 |
 | `go mod tidy`        | จัดระเบียบโมดูล ลบตัวที่ไม่ได้ใช้ และเพิ่มตัวที่ขาดให้โดยอัตโนมัติ |
 | `go fmt`             | จัด Format โค้ดให้สวยงามตามมาตรฐาน Go                              |
+| `go test -v`         | สั่งรัน Test แบบละเอียด (Verbose)                                  |
 
 ### 🌿 Git Basic
 
@@ -74,6 +75,20 @@
 | **13**  | `WaitGroups`      | การสั่งให้ Main รอน้อง ๆ (Goroutines) ทำงานให้เสร็จ        |
 | **14**  | `Channels`        | การส่งของข้ามท่อระหว่างงานเบื้องหลัง                       |
 | **15**  | `Error Handling`  | การดักจับปัญหาอย่างเป็นระบบและปลอดภัย                      |
+
+---
+
+## 📂 รายละเอียด 17 บทเรียนขั้นสูง (Advance Level)
+
+| บทเรียน | หัวข้อการเรียนรู้         | รายละเอียดโดยย่อ           |
+| :------ | :------------------------ | :------------------------- |
+| **01**  | `AdvanceStructsInterface` | Struct & interface ขั้นสูง |
+| **02**  | `GoRoutineChannel`        | GoRoutine & Channel        |
+| **03**  | `StatementTimeout`        | Statement Timeout          |
+| **04**  | `ContextWithTimeout`      | Context With Timeout       |
+| **05**  | `ErrorWrapping`           | Error Wrapping             |
+| **06**  | `UnitTest`                | Unit Test                  |
+| **07**  | `MicroserviceRestApi`     | Microservice Rest Api      |
 
 ---
 
