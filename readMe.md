@@ -78,17 +78,18 @@
 
 ---
 
-## 📂 รายละเอียด 17 บทเรียนขั้นสูง (Advance Level)
+## 📂 รายละเอียด 08 บทเรียนขั้นสูง (Advance Level)
 
-| บทเรียน | หัวข้อการเรียนรู้         | รายละเอียดโดยย่อ           |
-| :------ | :------------------------ | :------------------------- |
-| **01**  | `AdvanceStructsInterface` | Struct & interface ขั้นสูง |
-| **02**  | `GoRoutineChannel`        | GoRoutine & Channel        |
-| **03**  | `StatementTimeout`        | Statement Timeout          |
-| **04**  | `ContextWithTimeout`      | Context With Timeout       |
-| **05**  | `ErrorWrapping`           | Error Wrapping             |
-| **06**  | `UnitTest`                | Unit Test                  |
-| **07**  | `MicroserviceRestApi`     | Microservice Rest Api      |
+| บทเรียน | หัวข้อการเรียนรู้                  | รายละเอียดโดยย่อ                             |
+| :------ | :--------------------------------- | :------------------------------------------- |
+| **01**  | `AdvanceStructsInterface`          | Struct & interface ขั้นสูง                   |
+| **02**  | `GoRoutineChannel`                 | GoRoutine & Channel                          |
+| **03**  | `StatementTimeout`                 | Statement Timeout                            |
+| **04**  | `ContextWithTimeout`               | Context With Timeout                         |
+| **05**  | `ErrorWrapping`                    | Error Wrapping                               |
+| **06**  | `UnitTest`                         | Unit Test                                    |
+| **07**  | `MicroserviceRestApi using gin`    | Microservice Rest Api using gin framework    |
+| **08**  | `MicroserviceRestApi using fabric` | Microservice Rest Api using fabric framework |
 
 ---
 
